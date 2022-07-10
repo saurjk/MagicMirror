@@ -33,7 +33,7 @@ html {
 body {
   margin: var(--gap-body-top) var(--gap-body-right) var(--gap-body-bottom) var(--gap-body-left);
   position: absolute;
-  height: calc(100% - var(--gap-body-top) - var(--gap-body-bottom));
+  height: calc(110% - var(--gap-body-top) - var(--gap-body-bottom));
   width: calc(100% - var(--gap-body-right) - var(--gap-body-left));
   background: var(--color-background);
   color: var(--color-text);
